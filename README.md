@@ -8,7 +8,7 @@ Interested in machine learning, backend development, and system design.
 - building study projects and pet-projects
 
 ## Tech stack
-- **Languages:** Python, C, C++.
+- **Languages:** Python, C, C++
 - **Tools:** Git, Linux, Docker
 - **Interests:** machine learning, backend, algorithms, data structures, distributed systems
 
