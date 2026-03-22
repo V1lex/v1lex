@@ -25,6 +25,7 @@ Interested in machine learning, backend development, and system design.
 - [algorithms-data-structures-course](https://github.com/V1lex/algorithms-data-structures-course) — coursework and practice in algorithms and data structures
 
 ### Projects
+- [spam-detector](https://github.com/V1lex/spam-detector) — spam message classifier using TF-IDF, classical ML models, and multilingual CLI support with language detection and translation
 - [data-anonymization-and-synthesis-tool](https://github.com/V1lex/data-anonymization-and-synthesis-tool) — tool for anonymizing CSV data and generating synthetic tabular data
 - [task-processing-platform](https://github.com/V1lex/task-processing-platform) — task processing platform with queues, filtering, and async execution
 
