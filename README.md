@@ -21,8 +21,9 @@ Interested in machine learning, backend development, and system design.
 - [classic-sorts-and-data-structures](https://github.com/V1lex/classic-sorts-and-data-structures) — classic sorting algorithms, math functions, and data structures
 - [library-simulation](https://github.com/V1lex/library-simulation) — custom library management system with event simulation
 
-### Algorithms & Data Structures
+### Courses
 - [algorithms-data-structures-course](https://github.com/V1lex/algorithms-data-structures-course) — coursework and practice in algorithms and data structures
+- [data-analysis-frameworks-course](https://github.com/V1lex/data-analysis-frameworks-course) — coursework and practice in data processing and analytical frameworks
 
 ### Projects
 - [spam-detector](https://github.com/V1lex/spam-detector) — spam message classifier using TF-IDF, classical ML models, and multilingual CLI support with language detection and translation
